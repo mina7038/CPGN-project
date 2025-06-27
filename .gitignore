@@ -1,0 +1,12 @@
+# Spring/Gradle 기본
+/build/
+/out/
+/target/
+/.gradle/
+/.idea/
+/*.iml
+
+# application.yml 제외
+src/main/resources/application.yml
+src/main/resources/application-*.yml
+!src/main/resources/application-example.yml  # 샘플 파일은 허용
