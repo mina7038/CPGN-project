@@ -65,6 +65,12 @@
 <img width="400" height="955" alt="image 3" src="https://github.com/user-attachments/assets/70c14e9e-afe7-4a18-a2df-9735fc38523b" />
 
 ### 3️⃣ 리뷰 요약 mp3 생성
+- **OpenAI TTS**
+    - OpenAI TTS를 활용해 리뷰를 요약하고 mp3 파일로 변환하여, 상품 상세 페이지에서 음성으로 리뷰를 들을 수 있습니다.
+<img width="400" height="951" alt="image" src="https://github.com/user-attachments/assets/611d69f9-68e6-4ce9-8296-7f06f445f911" />
+<img width="400" height="951" alt="image" src="https://github.com/user-attachments/assets/29a10b28-781c-4475-8a8d-e559087f9db5" />
+
+
 
 
 ## **🎬 기능 구현**
@@ -108,9 +114,13 @@
 - **수정**: 기존 자료 내용 및 파일 업데이트.
 - **삭제**: 불필요한 자료 삭제.
 
+![cpgn-dataroom](https://github.com/user-attachments/assets/c96fa528-e450-46cd-acdd-3c57c69acc98)
+
+
 ### ✔ 챗봇/1:1 채팅
 - **챗봇(OpenAI 연동)**: AI 기반 자동 응답 및 상품 추천 기능 제공.
 - **1:1 채팅**: 고객이 관리자와 실시간 상담 가능, 대화 내역 관리 지원.
+
 <img width="400" height="953" alt="image" src="https://github.com/user-attachments/assets/625096df-1b56-4a97-b9be-ede34949d113" />
 <img width="400" height="953" alt="image" src="https://github.com/user-attachments/assets/318feb1e-e56d-4d2d-b113-ff6bce18fb39" />
 <img width="400" height="953" alt="image" src="https://github.com/user-attachments/assets/c5969354-8b32-4fe8-b309-59dfd85810fc" />
@@ -120,7 +130,8 @@
 ### ✔ 리뷰 요약 mp3 생성 및 듣기
 - **리뷰 요약 mp3 생성** : OpenAI TTS를 활용해 리뷰 내용을 요약하고 음성(mp3) 파일로 변환.
 - **리뷰 요약 mp3 듣기** : 상품 상세 페이지에서 AI가 생성한 리뷰 요약 음성을 재생 가능.
-<img width="1123" height="634" alt="image" src="https://github.com/user-attachments/assets/13126b51-70e1-438d-bb88-ee6feb4f8f5f" />
+
+![cpgn-tts](https://github.com/user-attachments/assets/84bf79ee-e9f1-443b-a654-1b49fd0f479b)
 
 
 ### ✔ 관리자 대시보드
