@@ -1,5 +1,9 @@
 # Spring Boot-React 프로젝트 - 꼼파뇨 스튜디오
 
+<div align="center">
+    <img width="400" height="176" alt="꼼파뇨스튜디오 jpg" src="https://github.com/user-attachments/assets/41d13135-97eb-4812-96e6-9a8a88c05b68" />
+</div>
+
 ## 목차
 
 - [개요](https://github.com/mina7038/CPGN-project#-개요)
