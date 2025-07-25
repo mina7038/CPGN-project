@@ -2,11 +2,11 @@
 
 ## 목차
 
-- [개요](https://www.notion.so/23a08645f785808fa608cf318ddd07b5?pvs=21)
-- [기술 스택](https://www.notion.so/23a08645f785808fa608cf318ddd07b5?pvs=21)
-- [프로젝트 설계](https://www.notion.so/23a08645f785808fa608cf318ddd07b5?pvs=21)
-- [주요 기능](https://www.notion.so/23a08645f785808fa608cf318ddd07b5?pvs=21)
-- [기능 구현](https://www.notion.so/23a08645f785808fa608cf318ddd07b5?pvs=21)
+- [개요]()
+- [기술 스택]()
+- [프로젝트 설계]()
+- [주요 기능]()
+- [기능 구현]()
 
 ## **🚩 개요**
 
