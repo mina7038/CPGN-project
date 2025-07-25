@@ -29,6 +29,21 @@
 - API: `Google OAuth 2.0`, `TossPayments`
 
 ## **📝 프로젝트 설계**
+- **요구사항 정의서**
+
+    <img width="1223" height="540" alt="image" src="https://github.com/user-attachments/assets/d56df965-910a-4943-b2e4-5a8879cf6f8a" />
+    
+- **유스케이스 명세서**
+
+    <img width="1230" height="635" alt="image" src="https://github.com/user-attachments/assets/b9565ff7-dc6d-48e1-a926-dbde2fc8fef1" />
+    <img width="1227" height="637" alt="image" src="https://github.com/user-attachments/assets/109e03ef-fdf0-435e-8353-e713c68afac0" />
+    
+- **ERD**
+
+    <img width="1123" height="634" alt="image" src="https://github.com/user-attachments/assets/5f01af5d-70d5-4c74-b984-82178d73d4cb" />
+
+
+
 
 ## **✨ 주요 기능**
 
@@ -48,6 +63,8 @@
 
 <img width="400" height="950" alt="image 2" src="https://github.com/user-attachments/assets/26fcc8f8-2873-4c57-960c-dd51fc8f501a" />
 <img width="400" height="955" alt="image 3" src="https://github.com/user-attachments/assets/70c14e9e-afe7-4a18-a2df-9735fc38523b" />
+
+### 3️⃣ 리뷰 요약 mp3 생성
 
 
 ## **🎬 기능 구현**
@@ -99,6 +116,14 @@
 <img width="400" height="953" alt="image" src="https://github.com/user-attachments/assets/c5969354-8b32-4fe8-b309-59dfd85810fc" />
 <img width="400" height="953" alt="image" src="https://github.com/user-attachments/assets/b320c881-ac87-4805-882c-d337169be6a6" />
 
-  
+
+### ✔ 리뷰 요약 mp3 생성 및 듣기
+- **리뷰 요약 mp3 생성** : OpenAI TTS를 활용해 리뷰 내용을 요약하고 음성(mp3) 파일로 변환.
+- **리뷰 요약 mp3 듣기** : 상품 상세 페이지에서 AI가 생성한 리뷰 요약 음성을 재생 가능.
+<img width="1123" height="634" alt="image" src="https://github.com/user-attachments/assets/13126b51-70e1-438d-bb88-ee6feb4f8f5f" />
+
+
+### ✔ 관리자 대시보드
+
 
 
