@@ -3,10 +3,10 @@
 ## 목차
 
 - [개요](https://github.com/mina7038/CPGN-project#-개요)
-- [기술 스택]()
-- [프로젝트 설계]()
-- [주요 기능]()
-- [기능 구현]()
+- [기술 스택](https://github.com/mina7038/CPGN-project#-기술-스택)
+- [프로젝트 설계](https://github.com/mina7038/CPGN-project#-프로젝트-설계)
+- [주요 기능](https://github.com/mina7038/CPGN-project#-주요-기능)
+- [기능 구현](https://github.com/mina7038/CPGN-project#-기능-구현)
 
 ## **🚩 개요**
 
