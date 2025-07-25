@@ -33,18 +33,18 @@
 - **Google OAuth 2.0**
     - Google OAuth 2.0 연동을 통해 Google 계정으로 손쉽게 로그인할 수 있습니다.
 
-![image.png](image.png)
+<img width="400" height="950" alt="image" src="https://github.com/user-attachments/assets/c80dfa2e-c62c-452d-832e-a043559a8c4f" />
+<img width="400" height="950" alt="image 1" src="https://github.com/user-attachments/assets/c26d67fa-b492-4d60-b228-b49b69be9c16" />
 
-![image.png](image%201.png)
 
 ### 2️⃣ Toss Pay 결제
 
 - **TossPayments API**
     - TossPayments API를 통해 카드, 계좌이체, 간편결제 등 다양한 결제 수단으로 쉽고 안전하게 결제할 수 있습니다.
 
-![image.png](image%202.png)
+<img width="400" height="950" alt="image 2" src="https://github.com/user-attachments/assets/26fcc8f8-2873-4c57-960c-dd51fc8f501a" />
+<img width="400" height="955" alt="image 3" src="https://github.com/user-attachments/assets/70c14e9e-afe7-4a18-a2df-9735fc38523b" />
 
-![image.png](image%203.png)
 
 ## **🎬 기능 구현 영상**
 
